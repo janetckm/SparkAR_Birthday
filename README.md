@@ -1,5 +1,5 @@
-# SparkAR_Birthday
-Birthday Filter for Bo
+# SparkAR : Birthdaylloons
+Instagram Filter for Bo's birthday
 
 ## Preview
 ![preview](https://miro.medium.com/max/640/0*h8YkKfhTdYlVXvkN.gif)
